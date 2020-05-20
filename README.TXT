@@ -3,6 +3,9 @@
 
 Quick startup guide:
 
+# You may have to install git: in case of error "command not found"
+apt-get install -y git
+
 1: Copy, clone thoses files where you want them to be.
 git clone https://github.com/Tontonjo/docker-nginx.git
 
